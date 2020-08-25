@@ -7,3 +7,4 @@ geopandas
 matplotlib
 seaborn
 datetime
+descartes
