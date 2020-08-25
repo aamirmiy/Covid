@@ -8,8 +8,8 @@ import datetime
 import streamlit as st
 from streamlit import caching
 import pandas as pd
-from plotly.subplots import make_subplots
 import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 from sklearn.linear_model import LinearRegression
 import numpy as np
 import geopandas as gpd
