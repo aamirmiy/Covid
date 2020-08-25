@@ -4,3 +4,6 @@ pandas
 numpy
 sklearn
 geopandas
+matplotlib
+seaborn
+datetime
